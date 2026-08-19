@@ -1,5 +1,21 @@
 # Mein erstes Repository
 
-Hier findest du die README.md Datei.
+## .git - Ordner
 
-<img width="486" height="631" alt="Bild2" src="https://github.com/user-attachments/assets/fffff3fe-fcca-47f7-9782-63d0893d493a" />
+- Gehirn des Projekts
+- Nicht anfassen!
+
+## .gitignore - File
+
+- Türsteher
+- Lässt nur relevante Dateien rein
+
+## .gitconfig - File
+
+- Dein Ausweis
+- Enthält Name und E-Mail-Adresse
+
+## README - File
+
+- Willkommensschild
+- Erklärt das Projekt
